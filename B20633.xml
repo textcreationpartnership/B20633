@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations about the transportation of wool</title>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20633</idno><idno type="EEBO-CITATION">99887494</idno>
+  <idno type="VID">190465</idno>
+  <idno type="EEBO-PROQUEST">2240898497</idno>
+  
+            <idno type="STC">Wing C5907A</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[14]</idno>
+            <idno type="STC">ESTC R227754</idno>
+            <idno type="PROQUEST">ocm99887494</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887494e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190465)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[66])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations about the transportation of wool</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wool industry --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Woolen goods industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Foreign trade regulation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="considerations">
+            <pb facs="tcp:190465:1"/>
+            <head>CONSIDERATIONS ABOUT THE Transportation of Wool</head>
+            <p>THAT the Woollen-Manufacture hath been and is the Chief Support of the Wealth and Strength of this Nation; upon which also in a great measure depends the Revenue of the Crown, the Prosperity of the Rich, and the Maintenance of the Poor.</p>
+            <p>Whereas not only <hi>Holland</hi> and <hi>France</hi> hath for a long time set up that Manufacture by the help of our Wool, but <hi>Suedeland</hi> and other Foreign Parts have done the same lately.</p>
+            <p>It is believed that for near Twenty Years of the Two last Reigns, the <hi>French</hi> Gained by our Wool Exported thither at least Two Millions <hi>per Annum;</hi> and altho' that Advantage to them hath been abated since His present Majesties Accession to the Throne, by reason chiefly of the War, yet is still continued; and since the Peace greatly increased.</p>
+            <p>For the preventing this Evil frequent Attempts have been made both by altering the Laws and otherwise, but that they have not succeeded, is owing not to the nature of the Disease, but unsuitableness of the Remedies used to remove it; nor hath the Act for Suing the Hundred, nor the Encrease of the Number of the <hi>Custom-House</hi> Officers (whose Profit arises by Seizures of Wool, or good Correspondence with the Offenders) prevented it; it being now Matter of Fact, that as great if not greater quantities than ever are daily Transported.</p>
+            <p>But it is further Matter of Fact on the other hand, when such persons whose Interest it was to prevent it, were Impowered, it hath been effectually done; and when it was so in the Two latter Reigns, it so sensibly Affected the <hi>French</hi> that their Ambassador here did use his utmost Endeavour to dis<g ref="char:EOLhyphen"/>courage those Persons; and so far prevail'd with the Government, as to effect it.</p>
+            <p>Therefore it is humbly conceived, that except those be empowered to prevent the Exportation of Wool whose Interest it is to do it it cannot rationally be expected that it should be done; nor can this be without a Fund, for who will do it at his own Charge?</p>
+            <p>That when Application have been made both to the last and present Govern<g ref="char:EOLhyphen"/>ment to prevent it; after several References, Examinations and Reports from the Commissioners of the Customs, it hath been by them thought necessary for a distinct Commission in this Case, as may appear by the Reports and Proceedings therein, if required.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
